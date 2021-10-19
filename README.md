@@ -55,7 +55,7 @@ O comando `git checkout -b` deve criar uma nova branch e automaticamente te move
 
 # 3 - Deixe sua marca.
 
-Navegue até a pasta `pull-request/assinaturas` e lá dentro crie um arquivo do tipo [markdown](https://www.markdownguide.org/getting-started/). O arquivo leva seu nome e um número randômico (definido por você) de 4 dígitos separados por traço. Um exemplo seria:
+Navegue até a pasta `ideal-guide/assinaturas` e lá dentro crie um arquivo do tipo [markdown](https://www.markdownguide.org/getting-started/). O arquivo leva seu nome e um número randômico (definido por você) de 4 dígitos separados por traço. Um exemplo seria:
 
 `Ex: carlosguttemberg-0042`
 
@@ -68,8 +68,6 @@ Comida favorita: Hamburguer
 
 Aprendendo: Node, React
 
-Sobre: Aqui você pode colocar mais informações sobre você caso queira.
-Se você é do tipo tímido(a) pode deixar em branco ou deletar do arquivo.
 ```
 
 # 4 - Envie as alterações
