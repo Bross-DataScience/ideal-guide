@@ -4,6 +4,6 @@ Que bom ter você aqui! deixa a turma te conhecer melhor. você pode seguir o mo
 
 **Nome:** Luigi Sampaio
 
-**Comida:** Pizza 
+**Comida:** Pizza :pizza:
 
 **Aprendendo:** React
